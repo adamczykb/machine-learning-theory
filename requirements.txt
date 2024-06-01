@@ -167,3 +167,5 @@ Werkzeug==3.0.3
 widgetsnbextension==4.0.11
 xxhash==3.4.1
 yarl==1.9.4
+seaborn==0.13.2
+pandas==2.2.2 
